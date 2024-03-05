@@ -1,1 +1,2 @@
 This is updated comitted document
+This is the latest commit change
